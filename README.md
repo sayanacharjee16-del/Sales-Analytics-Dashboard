@@ -12,7 +12,7 @@ The goal of this project is to analyze the sales data of a Superstore to underst
 ## 🛠️ Tools & Technologies Used
 * **Data Visualization & Analytics:** Tableau
 * **Data Modeling & Aggregation:** SQL
-* **Data Cleaning & Exploration:** Python (Pandas) / Excel
+* **Data Cleaning & Exploration:** Excel
 
 ## 📊 Key Performance Indicators (KPIs)
 At a glance, the business generated:
