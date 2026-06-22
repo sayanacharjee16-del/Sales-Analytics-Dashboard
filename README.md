@@ -46,5 +46,6 @@ At a glance, the business generated:
 
 ## 👨‍💻 About the Author
 Sayan Acharjee 
+
 I am a Data Analyst passionate about turning messy data into actionable business strategies. 
 * **LinkedIn:** https://www.linkedin.com/in/sayan-acharjee-8bb65b248
